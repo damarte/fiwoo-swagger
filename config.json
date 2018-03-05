@@ -1,0 +1,18 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Swagger Fiwoo",
+    "version": "1.0.0"
+  },
+  "apis": [
+    {
+      "url": "https://platform.fiwoo.eu/api/device-management/swagger"
+    },
+    {
+      "url": "https://platform.fiwoo.eu/api/gis/swagger"
+    },
+    {
+      "url": "https://app.swaggerhub.com/apiproxy/schema/file/JIG_INTERNET/data-visualization/1.0.0/swagger.json",
+    }
+  ]
+}
